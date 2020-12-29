@@ -4,9 +4,11 @@
     <list default="true" id="712bcd57-c566-44e8-bdca-21b18fa5e16a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/servers/edit-server/edit-server.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/servers/edit-server/edit-server.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/servers/server/server.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/servers/server/server.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/servers/servers.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/servers/servers.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/servers/servers.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/servers/servers.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/users/users.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/users/users.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609250377728</updated>
-      <workItem from="1609250381250" duration="4183000" />
+      <workItem from="1609250381250" duration="6201000" />
     </task>
     <task id="LOCAL-00001" summary="using routerLink">
       <created>1609252072388</created>
@@ -101,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609253881376</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding queryParams and fragment">
+      <created>1609254735744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609254735744</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +134,7 @@
     <MESSAGE value="using routes programatically" />
     <MESSAGE value="acessing url params" />
     <MESSAGE value="accessing url params by subscribing to params" />
-    <option name="LAST_COMMIT_MESSAGE" value="accessing url params by subscribing to params" />
+    <MESSAGE value="adding queryParams and fragment" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding queryParams and fragment" />
   </component>
 </project>
